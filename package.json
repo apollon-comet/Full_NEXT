@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "fuse.js": "^6.6.2",
+    "lodash": "^4.17.21",
+    "next": "^13.4.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-modal": "^3.16.1",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "name": "seo",
+  "description": "This repository contains the starter template for the [Improving Web Vitals](https://nextjs.org/learn/seo/improve/lighthouse) example of the Next.js [learn SEO course](https://nextjs.org/learn/seo/introduction-to-seo).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
